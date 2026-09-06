@@ -104,3 +104,6 @@ Parent / LocalPosition / LocalRotation을 저장하고 복원하도록 수정했
 
 ## Gameplay Video
 
+[▶ 그슨대 Gameplay Highlight](https://youtu.be/dff1kfL8dM0)
+
+포트폴리오에서 소개한 게임 진행, 상호작용, 퍼즐 및 주요 시스템의 실제 플레이 영상입니다.
