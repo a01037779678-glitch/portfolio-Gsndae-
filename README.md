@@ -58,6 +58,28 @@ Parent / LocalPosition / LocalRotation을 저장하고 복원하도록 수정했
 - Main Merge 후 통합 테스트
 - 병합 과정에서 발생하는 충돌 및 시스템 연동 오류 수정
 
+## Source Code
+
+프로젝트에서 직접 구현한 주요 시스템 코드를 기능별로 정리했습니다.
+
+- [Game State Management](./Scripts/GameState)
+  - 게임 진행 상태
+  - House / 제단 / 분기 상태 관리
+
+- [Save / Load](./Scripts/SaveLoad)
+  - SaveData 기반 게임 상태 저장 및 복원
+  - JSON 저장 / 로드
+  - 인벤토리 저장 상태 관리
+
+- [Interaction System](./Scripts/Interaction)
+  - IInteractable 기반 공통 상호작용 구조
+  - 문 / 아이템 / 퍼즐 오브젝트 처리
+
+- [Troubleshooting](./Scripts/Troubleshooting)
+  - 다시하기 시 인벤토리 상태 복원
+  - 카메라 Transform 복원
+  - Scene 재진입 시 플레이어 상태 처리
+ 
 ## Screenshots
 <!-- 추후 게임 스크린샷 추가 -->
 
