@@ -103,7 +103,4 @@ Parent / LocalPosition / LocalRotation을 저장하고 복원하도록 수정했
 | ![Item Pickup](<./ScreenShots/item_pickup.png>) | ![Altar](<./ScreenShots/Altar.png>) |
 
 ## Gameplay Video
-<!-- 추후 영상 링크 추가 -->
 
-## Portfolio
-<!-- 추후 포트폴리오 PDF 링크 추가 -->
