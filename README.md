@@ -79,9 +79,28 @@ Parent / LocalPosition / LocalRotation을 저장하고 복원하도록 수정했
 - 기능 단위 Commit / Push
 - Main Merge 후 통합 테스트
 - 병합 과정에서 발생하는 충돌 및 시스템 연동 오류 수정
- 
-## Screenshots
-<!-- 추후 게임 스크린샷 추가 -->
+ ## Screenshots
+
+### Title
+![Title](<./ScreenShots/title.png>)
+
+### Interaction
+
+| Door Open | Door Close |
+|---|---|
+| ![Door Open](<./ScreenShots/DoorInteraction1(open).png>) | ![Door Close](<./ScreenShots/DoorInteraction2(close).png>) |
+
+### Puzzle
+
+| House 2 Puzzle | House 3 Puzzle | House 3 Puzzle Hint |
+|---|---|---|
+| ![House 2 Puzzle](<./ScreenShots/House2Puzzle.png>) | ![House 3 Puzzle](<./ScreenShots/House3Puzzle.png>) | ![House 3 Puzzle Hint](<./ScreenShots/House3PuzzleHint.png>) |
+
+### Gameplay
+
+| Item Pickup | Altar |
+|---|---|
+| ![Item Pickup](<./ScreenShots/item_pickup.png>) | ![Altar](<./ScreenShots/Altar.png>) |
 
 ## Gameplay Video
 <!-- 추후 영상 링크 추가 -->
